@@ -7,11 +7,12 @@ Desenvolver em grupo os requisitos de uma solução sistêmica para monitorament
 
 Links:
 --> Protótipo do app via figma: https://www.figma.com/proto/sQ0pRtEv8Su6URdc9SST64/Prot%C3%B3tipo-Heinz?node-id=1-173&starting-point-node-id=1%3A173
+
 --> Modelagem da API via Swagger: https://app.swaggerhub.com/apis/HENRIQUEALMMEIDA_1/Heinz2/1.0.0
 
 Nota: 45/50 
 
--/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
 Critérios de avaliação (50 Pontos):
 
